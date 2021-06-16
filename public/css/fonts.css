@@ -155,3 +155,12 @@
    }
 
 }
+
+@font-face {
+    font-family: 'courgette-regular';
+    src: url('fonts/cursive/Courgette-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'leaguespartan-bold';
+    src: url('fonts/opensans/LeagueSpartan-Bold.otf');
+}
